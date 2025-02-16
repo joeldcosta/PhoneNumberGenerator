@@ -5,25 +5,25 @@ Phone Number Generator is a Python script that creates random phone numbers base
 It generates authentic random numbers in bulk (default: 100 at a time) and exports them as a VCF contact file, making it easy to import into your phone.
 
 🚀 Features
-✅ Generate random phone numbers based on country code and starting digits
-✅ Export generated numbers as a VCF file for easy import
-✅ Sync contacts with social media platforms like Instagram, Facebook, and WhatsApp
-✅ Quickly find generated contacts by searching "qwertx" in your phonebook
-✅ Simple and flexible usage via Telegram bot
+✅ Generate random phone numbers based on country code and starting digits<br>
+✅ Export generated numbers as a VCF file for easy import<br>
+✅ Sync contacts with social media platforms like Instagram, Facebook, and WhatsApp<br>
+✅ Quickly find generated contacts by searching "qwertx" in your phonebook<br>
+✅ Simple and flexible usage via Telegram bot<br>
 
 🎯 Purpose
 After importing the contacts, your phone's background sync will start linking them to social media accounts. 
 This process may take up to a day for 100 contacts. More than 100 contacts may take longer or may not sync properly.
 
 🔥 What Can You Do With It?
-🔹 It will automatically recommend your social media profile to your contact list via (Instagram, Facebook, etc.)
-🔹 Discover authentic WhatsApp numbers
-🔹 Expand your network or maybe find a new girlfriend 😉
-🔹 Works globally – no country or region restrictions
-🔹 Easily manage contacts—delete old ones and generate new ones anytime
-  - To delete old contacts, search "qwertx", select all, and delete.
-🔹 The script will generate 100 random phone numbers and create a VCF file.
-🔹 Download the VCF file and import it into your phone.
+🔹 It will automatically recommend your social media profile to your contact list via (Instagram, Facebook, etc.)<br>
+🔹 Discover authentic WhatsApp numbers<br>
+🔹 Expand your network or maybe find a new girlfriend 😉<br>
+🔹 Works globally – no country or region restrictions<br>
+🔹 Easily manage contacts—delete old ones and generate new ones anytime<br>
+  - To delete old contacts, search "qwertx", select all, and delete.<br>
+🔹 The script will generate 100 random phone numbers and create a VCF file.<br>
+🔹 Download the VCF file and import it into your phone.<br>
 
 📥 Installation & Usage
     Download the script
