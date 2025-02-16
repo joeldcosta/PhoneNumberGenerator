@@ -1,8 +1,8 @@
 # PhoneNumberGenerator
 
-📱 Phone Number Generator Bot Program
-Phone Number Generator is a Python script that creates random phone numbers based on a given country code and starting digits. 
-It generates authentic random numbers in bulk (default: 100 at a time) and exports them as a VCF contact file, making it easy to import into your phone.
+📱 Phone Number Generator Bot Program<br>
+Phone Number Generator is a Python script that creates random phone numbers based on a given country code and starting digits. <br>
+It generates authentic random numbers in bulk (default: 100 at a time) and exports them as a VCF contact file, making it easy to import into your phone.<br>
 
 🚀 Features<br>
 ✅ Generate random phone numbers based on country code and starting digits<br>
